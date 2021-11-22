@@ -26,7 +26,7 @@ Bibliotheques necessaires :
 Fonctions utilisees :
 					int main(void)
 
-					main : fait la création du tableau contenant les 10 noms des joueurs de football, fait l'affichage de la liste complète des noms, fait la lecture de numéro de joueur et affiche le nom de joueur
+main : fait la création du tableau contenant les 10 noms des joueurs de football, fait l'affichage de la liste complète des noms, fait la lecture de numéro de joueur et affiche le nom de joueur
 					parametres d'entree : numéro d'un joueur entre 1 et 10 inclus
 					parametres de sortie :affichage du tableau des noms des joueurs + affichage de nom de joueur qu'on donne son numéro
 
