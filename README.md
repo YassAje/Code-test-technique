@@ -15,7 +15,7 @@ Fabriqué avec : Gedit(ubuntu) - Editeur de texte
 ********************************************************
 Fonctionnalite :
 
-Ce programme permet de créer un tableau contenant les noms de 10 joueurs de football et parcourir ce tableau puis afficher tous les noms des joueurs, il permet ainsi d'afficher le nom d'un seul joueur en donnant son numéro(bonus).
+Ce programme permet de créer un tableau contenant les noms de 10 joueurs de football et parcourir ce tableau puis afficher tous les noms des joueurs, il permet ainsi d'afficher le nom d'un seul joueur à partir de son numéro(bonus).
 
 
 Bibliotheques necessaires :
