@@ -1,7 +1,8 @@
 # Code-test-technique
 
 
-	##NOM du projet : Tableau contenant une dizaine des noms de joueurs de football
+	## NOM du projet : Tableau contenant une dizaine des noms de joueurs de football
+	
 ********************************************************
 
 Auteur(s) : Ajellabi Yasser
@@ -31,7 +32,8 @@ Fonctions utilisees :
 
 
 
-	##LANCER LE PROGRAMME	
+	## LANCER LE PROGRAMME	
+	
 ********************************************************
 
 	Pour lancer le programme il suffit de se positioner dans le dossieur du programme sur le terminal (ex : cd Bureau puis cd Test_technique) 
