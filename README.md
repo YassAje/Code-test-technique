@@ -1,4 +1,4 @@
-# Code-test-technique
+# Code de test technique
 
 
 ## NOM du projet : Tableau contenant une dizaine des noms de joueurs de football
