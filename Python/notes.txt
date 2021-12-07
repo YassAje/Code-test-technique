@@ -1,0 +1,19 @@
+1/ agrandir la police
+
+print en Python 3
+
+
+import math
+math.pi
+
+import os
+os.pardir
+os.sep
+
+os.environ['USERNAME']
+
+import sys
+>>> sys.builtin_module_names
+
+help()
+dir(os)
